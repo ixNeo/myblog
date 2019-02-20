@@ -1,5 +1,7 @@
 # Summary
 
+
+
 ##  攀天梯
 * [专业技能](profession/README.md)
     * [数据结构与算法](profession/data-struc/README.md)
@@ -32,7 +34,7 @@
 
 
 ## 缘因洞
-* [About Me](README.md)
+* [About Me](me/README.md)
 * [工程项目](projects/README.md)
     * [mcm2019-c](projects/README.md)
     * [chat-robot](projects/chatrobot.md)

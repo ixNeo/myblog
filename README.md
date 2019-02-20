@@ -1,6 +1,7 @@
-# About Me
 
- DLUT, SE.　大三在读
 
-[github](http://github.com/ixneo)
+个人博客。
 
+计算机专业学习记录，心得反思；
+
+书评，影评，碎碎念。
