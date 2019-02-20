@@ -1,18 +1,13 @@
 {
 	"plugins": ["toggle-chapters","multipart"
-		,"emphasize","katex","splitter"],
+		,"emphasize","katex","splitter"
+		,"baidu-tongji"],
 
 	"pluginsConfig": {
 		"theme-default": {
 		},
-		"github-buttons": {
-            "repo": "zhangjikai/gitbook-use",
-            "types": [
-                "star",
-                "watch",
-                "fork"
-            ],
-            "size": "small"
+		"baidu-tongji": {
+            "token": "fd43caf4c50f5b2f6a3d1788a9c60a64"
         }
 	}
 }
