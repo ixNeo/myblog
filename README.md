@@ -1,9 +1,6 @@
-# todo list
-- collective intelligence
-- code
+# About Me
 
+ DLUT, SE.　大三在读
 
-## go on
-
-[baidu](http://www.baidu.com)
+[github](http://github.com/ixneo)
 

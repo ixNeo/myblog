@@ -1,0 +1,18 @@
+{
+	"plugins": ["toggle-chapters","multipart"
+		,"emphasize","katex","splitter"],
+
+	"pluginsConfig": {
+		"theme-default": {
+		},
+		"github-buttons": {
+            "repo": "zhangjikai/gitbook-use",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
+        }
+	}
+}
