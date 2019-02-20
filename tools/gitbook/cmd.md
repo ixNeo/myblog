@@ -5,14 +5,7 @@
 3. gitbook pdf ./图书目录　＃pdf文件
 4. 安装插件后。
    1. gitbook build
-
    2. gitbook serve
-
-   3. ```latex
-      $
-      x_{1}
-      $
-      ```
 
 
 
